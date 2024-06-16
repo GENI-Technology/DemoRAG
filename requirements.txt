@@ -1,0 +1,11 @@
+transformers
+sentence-transformers 
+pandas
+googletrans==4.0.0-rc1
+spacy
+psutil
+sentencepiece
+matplotlib
+requests
+seaborn
+plotly
