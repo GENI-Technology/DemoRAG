@@ -10,6 +10,7 @@ This demo showcases:
 - The capabilities of transformer models in generating detailed and contextually relevant crop growing guides.
 - How context-aware systems can provide accurate and relevant information.
 - The use of retrieval-augmented generation for educational purposes.
+- https://generalragdemo.streamlit.app/
 
 ### Prerequisites
 - Python 3.7 or higher
