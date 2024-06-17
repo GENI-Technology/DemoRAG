@@ -1,4 +1,4 @@
-# 🌱 Crop Growing Guide with lightweight Trustworthy Retrieval-Augmented Generation
+# 🌱 Crop Growing Guide with Lightweight Trustworthy Retrieval-Augmented Generation
 
 Welcome to the demonstration of a customized lightweight Trustworthy Retrieval-Augmented Generation (RAG) model. This application is designed for educational purposes to help you understand various aspects of crop growing and related technologies through the use of advanced transformer models and context-aware techniques.
 
